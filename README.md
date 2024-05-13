@@ -14,7 +14,7 @@ The CNN model consists of multiple convolutional and max pooling layers, followe
 
 - Implementation of a CNN model using Keras
 - Training and testing on the CIFAR-100 dataset
-- Data preprocessing and augmentation using Keras' ImageDataGenerator
+- Data preprocessing using Keras
 - Visualization of training and validation accuracy and loss using matplotlib
 - Prediction and visualization of test images using matplotlib
 
@@ -26,7 +26,6 @@ The CNN model consists of multiple convolutional and max pooling layers, followe
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
 - OpenCV
 
 ## Usage
